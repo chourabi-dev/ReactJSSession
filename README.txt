@@ -7,3 +7,7 @@ npx create-react-app my-app
 npm start
 
 
+** install react router **
+  npm install react-router-dom
+
+
