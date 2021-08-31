@@ -12,6 +12,12 @@ class Profile extends React.Component{
   }
 
 
+  getUserDetails(){
+      // id
+      // HTTP GET  /user/id => res > 
+  }
+
+
   render(){
     return (
       <div className="App">
